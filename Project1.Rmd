@@ -93,6 +93,7 @@ As for epoch time and earthquake significance, there was a very weak positive co
 Seeing that there isn't a strong relationship between earthquake significance and epoch time, we could analyze the significance with the months instead, to see if there is a specific season or time of year that has more severe earthquakes. In the future, we can also investigate relationships between location variables and magnitude. For example, latitude and longitude with magnitude as a gradient to see the locations where earthquakes with the strongest magnitudes come from.
 
 
+# Change with github
 
 # **References**
 
