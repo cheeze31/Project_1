@@ -96,6 +96,7 @@ Seeing that there isn't a strong relationship between earthquake significance an
 # Change with github
 
 practicing with github
+change w collab function
 
 # **References**
 
