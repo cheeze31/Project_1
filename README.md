@@ -1,2 +1,2 @@
 # Project_1
-Has files with project 1
+First R project for SDS313 Intro to Data Science class
